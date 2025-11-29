@@ -11,15 +11,8 @@
 <!-- QUICK BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xnil6xdev&label=Profile%20Views&style=flat" alt="Profile Views" />
-  <a href="https://github.com/xnil6xdev?tab=followers">
-    <img src="https://img.shields.io/github/followers/xnil6xdev?logo=github&style=flat" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/xnil6xdev">
-    <img src="https://img.shields.io/github/stars/xnil6xdev?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="GitHub Stars" />
-  </a>
-  <a href="https://twitter.com/xnil6x404">
-    <img src="https://img.shields.io/twitter/follow/xnil6x404?logo=twitter&style=flat" alt="Twitter Follow" />
-  </a>
+  
+  
 </p>
 
 ---
