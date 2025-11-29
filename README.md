@@ -1,35 +1,121 @@
-
-
+<!-- PROFILE BANNER -->
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Sabbir%20chowdhury%20(%20xnil6x%20)&text2=💖%20A%20Passionate%20Coder,Developer%20and%20Debugger&width=900&height=400)
 
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://github.com/xnil6xdev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sabbir+Chowdhury+(xnil6x)%F0%9F%91%8B;BOT+Creator+%7C+Node.js+Developer;Love+Debugging+more+than+Sleeping+%F0%9F%98%82;Always+learning+JavaScript+and+Backend+Stuff" alt="Typing SVG" />
+  </a>
+</p>
 
-<img height="auto" src="https://komarev.com/ghpvc/?username=xnil6xdev&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+<!-- QUICK BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xnil6xdev&label=Profile%20Views&style=flat" alt="profile views" />
+  <a href="https://github.com/xnil6xdev?tab=followers">
+    <img src="https://img.shields.io/github/followers/xnil6xdev?logo=github&style=flat" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/xnil6xdev">
+    <img src="https://img.shields.io/github/stars/xnil6xdev?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="GitHub Stars" />
+  </a>
+  <a href="https://twitter.com/xnil6x404">
+    <img src="https://img.shields.io/twitter/follow/xnil6x404?logo=twitter&style=flat" alt="Twitter Follow" />
+  </a>
+</p>
 
+---
 
+## 😎 About Me
 
-<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
+- 💪🏼 Currently working on: **[BOT Creator](https://github.com/xnil6xdev/X-NIL.git)**
+- 🌱 Learning every day: **Node.js & JavaScript**
+- 💬 Ask me about: **Node.js, Bots, Automation**
+- 🛠 Love to: **Create, Break, Debug, Optimize**
+- 😂 Fun fact: **Bats are the only mammals capable of true sustained flight.**
+- 📫 Reach me anytime: **`xnilxhowdhury@gmail.com`**
 
+---
 
+## 🌐 Connect With Me
 
-<p align="left"> <a href="https://twitter.com/xnil6x404" target="blank"><img src="https://img.shields.io/twitter/follow/xnil6x404?logo=twitter&style=for-the-badge" alt="profile-radme-generator" /></a> </p>
+<p align="left">
+  <a href="https://github.com/xnil6xdev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/extremexnil6x" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/xnil6x404" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+</p>
 
+---
 
+## 🧰 Languages & Tools
 
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=xnil6xdev&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
+  </a>
+</p>
 
-- 💪🏼 Working on [BOT Creator ](https://github.com/xnil6xdev/X-NIL.git)
+---
 
-- 🌱 I’m currently learning **Nodejs & JavaScript **
+## 🏆 GitHub Trophies
 
-- 💬 Ask me about **Nodejs**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xnil6xdev&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
-- 😂 Func Fact **Bats are the only mammal that can actually fly.**
+---
 
-- 📫 How to reach me **xnilxhowdhury@gmail.com**
+## 📊 GitHub Stats & Activity
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/xnil6xdev" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://fb.com/extremexnil6x" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://twitter.com/xnil6x404" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xnil6xdev&show_icons=true&hide_border=false&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=xnil6xdev&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href=https://www.w3.org/html/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.mongodb.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://nodejs.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://tailwindcss.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://www.typescriptlang.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt="android" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnil6xdev&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
 
+---
 
+## 🤣 Random Dev Joke
 
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder=false&bgColor=%23101010&textColor=%23f5f5f5&qColor=%23ff6b81&aColor=%23feca57" width="900" height="110" alt="Jokes Card" />
+</p>
+
+---
+
+## ⚙️ Latest Project Highlight
+
+> 🚀 **BOT Creator (X-NIL)** – A powerful bot framework by **xnil6x**
+
+- 🔗 Repo: [github.com/xnil6xdev/X-NIL](https://github.com/xnil6xdev/X-NIL.git)  
+- 🧠 Tech: Node.js, JavaScript, APIs, Automation  
+- 🧩 Focus: Easy-to-use bot commands, custom handlers, and smooth debugging.
+
+---
+
+<!-- COOL WAVE FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks%20for%20visiting!%20💖&fontAlign=50&fontAlignY=40&color=gradient" alt="Footer" />
+</p>
