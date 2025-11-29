@@ -10,7 +10,7 @@
 
 <!-- QUICK BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xnil6xdev&label=Profile%20Views&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=xnil6xdev&label=Profile%20Views&style=flat" alt="Profile Views" />
   <a href="https://github.com/xnil6xdev?tab=followers">
     <img src="https://img.shields.io/github/followers/xnil6xdev?logo=github&style=flat" alt="GitHub Followers" />
   </a>
@@ -26,10 +26,12 @@
 
 ## 😎 About Me
 
+> Passionate about building bots, backend systems, and solving real-world problems with clean code.
+
 - 💪🏼 Currently working on: **[BOT Creator](https://github.com/xnil6xdev/X-NIL.git)**
-- 🌱 Learning every day: **Node.js & JavaScript**
-- 💬 Ask me about: **Node.js, Bots, Automation**
-- 🛠 Love to: **Create, Break, Debug, Optimize**
+- 🌱 Currently learning: **Node.js & JavaScript (deeper backend & ecosystem)**
+- 💬 Ask me about: **Node.js, Bots, Automation, API integration**
+- 🛠 I enjoy: **Creating, breaking, debugging, and optimizing code**
 - 😂 Fun fact: **Bats are the only mammals capable of true sustained flight.**
 - 📫 Reach me anytime: **`xnilxhowdhury@gmail.com`**
 
@@ -51,7 +53,7 @@
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Tech Stack – Languages & Tools
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -84,16 +86,19 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+### 🌐 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xnil6xdev&langs_count=10&layout=compact&theme=radical)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xnil6xdev&show_icons=true&hide_border=false&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=xnil6xdev&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnil6xdev&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-</p>
+---
+
+## ⚙️ Featured Project – BOT Creator (X-NIL)
+
+> 🚀 **BOT Creator (X-NIL)** – A flexible and powerful bot framework by **xnil6x**
+
+- 🔗 Repo: [github.com/xnil6xdev/X-NIL](https://github.com/xnil6xdev/X-NIL.git)  
+- 🧠 Tech: **Node.js, JavaScript, APIs, Automation**  
+- 🧩 Focus: **Custom commands, smooth handler system, better debugging experience**  
 
 ---
 
@@ -102,16 +107,6 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder=false&bgColor=%23101010&textColor=%23f5f5f5&qColor=%23ff6b81&aColor=%23feca57" width="900" height="110" alt="Jokes Card" />
 </p>
-
----
-
-## ⚙️ Latest Project Highlight
-
-> 🚀 **BOT Creator (X-NIL)** – A powerful bot framework by **xnil6x**
-
-- 🔗 Repo: [github.com/xnil6xdev/X-NIL](https://github.com/xnil6xdev/X-NIL.git)  
-- 🧠 Tech: Node.js, JavaScript, APIs, Automation  
-- 🧩 Focus: Easy-to-use bot commands, custom handlers, and smooth debugging.
 
 ---
 
