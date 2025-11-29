@@ -84,13 +84,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=xnil6xdev&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
----
-
 ### 🌐 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xnil6xdev&langs_count=10&layout=compact&theme=radical)
-
-
----
+![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=xnil6xdev&layout=compact&theme=radical)
 
 ## ⚙️ Featured Project – BOT Creator (X-NIL)
 
